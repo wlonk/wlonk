@@ -17,11 +17,12 @@ be.
 
 The code is [here](https://github.com/wlonk/wheretofind.me).
 
-#### [PyTeDjMi](https://github.com/wlonk/pytest-django-migrations)
+#### [My Dotfiles](https://github.com/wlonk/dotfiles)
 
-I want to be able to run tests, under pytest, for my Django data migrations. So
-this is a tool to make that easier. It's still under active development; lots
-of strange nooks and crannies in the code there.
+I put a bunch of time and care into my dotfiles, and I want them to be easily
+accessible when I set up a new laptop. So if I'm storing them here anyway, why
+not make them public? Usually when someone asks me how I did a thing in vim, I
+just link them to the appropriate section of my `.vimrc`.
 
 #### [Phix](https://github.com/wlonk/phix)
 
@@ -29,15 +30,16 @@ A small tool to facilitate writing good Sphinx docs. I think documentation is
 very important, and being able to see what your docs will look like can help
 you, y'know, write them.
 
+## Half-finished things:
+
+#### [PyTeDjMi](https://github.com/wlonk/pytest-django-migrations)
+
+I want to be able to run tests, under pytest, for my Django data migrations. So
+this is a tool to make that easier. It's still under active development; lots
+of strange nooks and crannies in the code there.
+
 #### Harriet
 
 It's not a thing yet, but soon, I hope, I will have a Django library to make
 integrating a WebSocket push notification surface into a Django REST Framework
 API easier.
-
-#### [My Dotfiles](https://github.com/wlonk/dotfiles)
-
-I put a bunch of time and care into my dotfiles, and I want them to be easily
-accessible when I set up a new laptop. So if I'm storing them here anyway, why
-not make them public? Usually when someone asks me how I did a thing in vim, I
-just link them to the appropriate section of my `.vimrc`.
