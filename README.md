@@ -1,6 +1,6 @@
-### Welcome to me on github
+### Hi there!
 
-Hi, I'm Kit, he/they. In my coding life, I like Python, Rust, reStructured
+Hi, I'm Kit. In my coding life, I like Python, Rust, reStructured
 Text, and thinking of code as something for humans. I also really like git
 surgery.
 
@@ -30,7 +30,7 @@ A small tool to facilitate writing good Sphinx docs. I think documentation is
 very important, and being able to see what your docs will look like can help
 you, y'know, write them.
 
-## Half-finished things:
+## Some-day things
 
 #### [PyTeDjMi](https://github.com/wlonk/pytest-django-migrations)
 
